@@ -10,7 +10,7 @@ I'm a passionate developer who loves building digital products that solve real-w
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | Java,JavaScript |
+| **Languages** | Core Java,JavaScript |
 | **Frontend** | React, Next.js, CSS |
 | **Backend** | Node.js, PostgreSQL, MongoDB |
 | **DevOps** | Docker, AWS, GitHub Actions |
